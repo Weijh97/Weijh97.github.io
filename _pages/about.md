@@ -22,7 +22,7 @@ Education -->
 
 - B.Sc. in College of Information Science & Engineering, [Huaqiao University](https://eee.hqu.edu.cn/).
 
-<h2> <img src="../image/paper_1.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> Research Interest </h2>
+<h2> <img src="../image/direction.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> Research Interest </h2>
 
 My research interest focuses on ML System, including:
 
@@ -35,7 +35,7 @@ My research interest focuses on ML System, including:
 
 None
 
-<h2> <img src="../image/paper_2.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> Selected Publications </h2> 
+<h2> <img src="../image/paper_1.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> Selected Publications </h2> 
 (#equal contribution, *corresponding author)
 
 <h3> Conference Publications </h3>
