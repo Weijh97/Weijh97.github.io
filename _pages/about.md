@@ -14,7 +14,7 @@ Hi, I am currently a doctoral candidate at [Sun Yat-sen University](https://sysu
 
 Education -->
 
-<h1><img src="../image/school.png" alt="Image" style="vertical-align: middle; width: 30px; height: 30px;" /> Education</h1>
+<h2><img src="../image/school.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Education</h2>
 ------
 
 - Ph.D in Guangzhou National SuperComputer Center,[Sun Yat-sen University](https://cse.sysu.edu.cn/).
