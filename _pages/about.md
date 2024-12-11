@@ -42,13 +42,13 @@ None
 
 - <strong>[PPoPP 2024]</strong> Jiangsu Du, <strong>Jinhui Wei</strong>, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, “Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference”
 
-- <strong>[EuroPar 2024]</strong> Jiazhi Jiang, Hongbin Zhang, Deyin Liu, Jiangsu Du, <strong>Jinhui Wei</strong>, Dan Huang, Yutong Lu “RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters”
+- <strong>[EuroPar 2024]</strong> Jiazhi Jiang, Hongbin Zhang, Deyin Liu, Jiangsu Du, <strong>Jinhui Wei</strong>, Dan Huang, Yutong Lu, “RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters”
 
-- <strong>[NPC 2020]</strong> <strong>Jinhui Wei</strong>, Jianzhuang Lu, Qi Yu, Chen Li, Yunping Zhao  “Dynamic GMMU Bypass for Address Translation in Multi-GPU Systems”
+- <strong>[NPC 2020]</strong> <strong>Jinhui Wei</strong>, Jianzhuang Lu, Qi Yu, Chen Li, Yunping Zhao, “Dynamic GMMU Bypass for Address Translation in Multi-GPU Systems”
 
 <h3> Journal Publications </h3>
 
-- <strong>[Computer Engineering & Science]</strong>  <strong>Jinhui Wei</strong>, Chen Li, Jianzhuang Lu "Research on virtual-physical address translation architectures of multi-GPU system"
+- <strong>[Computer Engineering & Science]</strong>  <strong>Jinhui Wei</strong>, Chen Li, Jianzhuang Lu, "Research on virtual-physical address translation architectures of multi-GPU system"
 
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
