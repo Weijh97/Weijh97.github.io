@@ -12,6 +12,7 @@ Hi, I am currently a doctoral candidate at [Sun Yat-sen University](https://sysu
 <!-- ![](../image/school.png style="height: 1em; vertical-align: left;">)Education -->
 <img src="../image/school.png" width = 5%> Education
 ------
+
 - Ph.D in Guangzhou National SuperComputer Center,[Sun Yat-sen University](https://cse.sysu.edu.cn/).
 
 - M.Sc in School of Computer Science, [National University of Defense Technology](https://www.nudt.edu.cn/).
