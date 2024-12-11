@@ -11,6 +11,7 @@ Hi, I am currently a doctoral candidate at [Sun Yat-sen University](https://sysu
 
 <!-- ![](../image/school.png width = 5%)Education -->
 <!-- <img src="../image/school.png" width="5%">  -->
+
 Education
 ------
 
