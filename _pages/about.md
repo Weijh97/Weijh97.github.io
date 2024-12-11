@@ -14,7 +14,7 @@ Hi, I am currently a doctoral candidate at [Sun Yat-sen University](https://sysu
 
 Education -->
 
-<h2><img src="../image/school.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Education</h2>
+<h2><img src="../image/school.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> Education</h2>
 
 - Ph.D in Guangzhou National SuperComputer Center,[Sun Yat-sen University](https://cse.sysu.edu.cn/).
 
@@ -22,7 +22,7 @@ Education -->
 
 - B.Sc. in College of Information Science & Engineering, [Huaqiao University](https://eee.hqu.edu.cn/).
 
-<h2> <img src="../image/paper_1.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Research Interest </h2>
+<h2> <img src="../image/paper_1.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> Research Interest </h2>
 
 My research interest focuses on ML System, including:
 
@@ -30,22 +30,24 @@ My research interest focuses on ML System, including:
 
 
 
-<h2> <img src="../image/news.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> News </h2> 
+<h2> <img src="../image/news.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> News </h2> 
 
 None
 
-<h2> <img src="../image/paper_2.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Selected Publications </h2> 
+<h2> <img src="../image/paper_2.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> Selected Publications </h2> 
 (#equal contribution, *corresponding author)
 
 <h3> Conference Publications </h3>
 
 - <strong>[PPoPP 2024]</strong> Jiangsu Du, <strong>Jinhui Wei</strong>, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, “Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference”
 
-- <strong>[EuroPar 2024]</strong> Jiazhi Jiang#, Hongbin Zhang#, Deyin Liu, Jiangsu Du, <strong>Jinhui Wei</strong>, Dan Huang, Yutong Lu “RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters”
+- <strong>[EuroPar 2024]</strong> Jiazhi Jiang, Hongbin Zhang, Deyin Liu, Jiangsu Du, <strong>Jinhui Wei</strong>, Dan Huang, Yutong Lu “RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters”
 
 - <strong>[NPC 2020]</strong> <strong>Jinhui Wei</strong>, Jianzhuang Lu, Qi Yu, Chen Li, Yunping Zhao  “Dynamic GMMU Bypass for Address Translation in Multi-GPU Systems”
 
 <h3> Journal Publications </h3>
+
+- <strong>[EuroPar 2024]</strong>
 
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
