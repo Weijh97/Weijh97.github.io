@@ -10,7 +10,8 @@ redirect_from:
 Hi, I am currently a doctoral candidate at [Sun Yat-sen University](https://sysu.edu.cn/).
 
 <!-- ![](../image/school.png width = 5%)Education -->
-<img src="../image/school.png" width="5%"> Education
+<!-- <img src="../image/school.png" width="5%"> Education -->
+<img src="../image/school.png" alt="Education" width="5%">
 ------
 
 - Ph.D in Guangzhou National SuperComputer Center,[Sun Yat-sen University](https://cse.sysu.edu.cn/).
