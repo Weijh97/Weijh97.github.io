@@ -34,8 +34,7 @@ My research interest focuses on ML System, including:
 
 None
 
-<h2> Selected Publications <h2> 
-======
+<h2> <img src="../image/paper.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Selected Publications <h2> 
 
 <h3> Conference Publications <h3>
 
