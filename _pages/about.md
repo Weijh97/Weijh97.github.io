@@ -18,7 +18,7 @@ Education -->
 
 - Ph.D in Guangzhou National SuperComputer Center,[Sun Yat-sen University](https://cse.sysu.edu.cn/).
 
-- M.Sc in School of Computer Science, [National University of Defense Technology](https://www.nudt.edu.cn/).
+- M.Sc in College of Computer Science, [National University of Defense Technology](https://www.nudt.edu.cn/).
 
 - B.Sc. in College of Information Science & Engineering, [Huaqiao University](https://eee.hqu.edu.cn/).
 
@@ -28,6 +28,7 @@ My research interest focuses on ML System, including:
 
 - Edge Device Inference System
 
+- Address Translation Architecture in Multi-GPU Systems
 
 
 <h2> <img src="../image/news.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> News </h2> 
