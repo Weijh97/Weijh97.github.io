@@ -23,7 +23,6 @@ Education -->
 - B.Sc. in College of Information Science & Engineering, [Huaqiao University](https://eee.hqu.edu.cn/).
 
 <h2> Research Interest </h2>
-------
 
 My research interest focuses on ML System, including:
 
@@ -31,20 +30,17 @@ My research interest focuses on ML System, including:
 
 
 
-News
-======
+<h2> News <h2> 
 
 None
 
-Selected Publications
+<h2> Selected Publications <h2> 
 ======
 
-Conference Publications
-------
+<h3> Conference Publications <h3>
 
 
-Journal Publications
-------
+<h3> Journal Publications <h3>
 
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
