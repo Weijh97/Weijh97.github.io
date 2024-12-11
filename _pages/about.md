@@ -1,3 +1,10 @@
+<style>
+img.inline {
+  height: 1em;
+  vertical-align: left;
+}
+</style>
+
 ---
 permalink: /
 title: "About me"
@@ -9,7 +16,8 @@ redirect_from:
 
 Hi, I am currently a doctoral candidate at [Sun Yat-sen University](https://sysu.edu.cn/).
 
-![](../image/school.png style="height: 1em; vertical-align: left;">)Education
+<!-- ![](../image/school.png style="height: 1em; vertical-align: left;">)Education -->
+<img src="../image/school.png" alt="school" class="inline"> Education
 ------
 Ph.D in Guangzhou National SuperComputer Center,[Sun Yat-sen University](https://cse.sysu.edu.cn/).
 
@@ -22,7 +30,7 @@ Research Interest
 
 My research interest focuses on ML System, including:
 
-# Edge Device Inference System
+Edge Device Inference System
 
 
 
