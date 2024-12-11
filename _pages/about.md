@@ -30,16 +30,17 @@ My research interest focuses on ML System, including:
 
 
 
-<h2> News <h2> 
+<h2> News </h2> 
 
 None
 
-<h2> <img src="../image/paper.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Selected Publications <h2> 
+<h2> <img src="../image/paper.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Selected Publications </h2> 
+(#equal contribution, *corresponding author)
 
-<h3> Conference Publications <h3>
+<h3> Conference Publications </h3>
+- <strong>[PPoPP 24]</strong> Jiangsu Du, <strong>Jinhui Wei</strong>, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, “Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference”
 
-
-<h3> Journal Publications <h3>
+<h3> Journal Publications </h3>
 
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
