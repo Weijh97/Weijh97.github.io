@@ -22,7 +22,7 @@ Education -->
 
 - B.Sc. in College of Information Science & Engineering, [Huaqiao University](https://eee.hqu.edu.cn/).
 
-<h2> Research Interest </h2>
+<h2> <img src="../image/paper_1.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Research Interest </h2>
 
 My research interest focuses on ML System, including:
 
@@ -30,15 +30,20 @@ My research interest focuses on ML System, including:
 
 
 
-<h2> News </h2> 
+<h2> <img src="../image/news.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> News </h2> 
 
 None
 
-<h2> <img src="../image/paper.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Selected Publications </h2> 
+<h2> <img src="../image/paper_2.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Selected Publications </h2> 
 (#equal contribution, *corresponding author)
 
 <h3> Conference Publications </h3>
-- <strong>[PPoPP 24]</strong> Jiangsu Du, <strong>Jinhui Wei</strong>, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, “Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference”
+
+- <strong>[PPoPP 2024]</strong> Jiangsu Du, <strong>Jinhui Wei</strong>, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, “Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference”
+
+- <strong>[EuroPar 2024]</strong> Jiazhi Jiang#, Hongbin Zhang#, Deyin Liu, Jiangsu Du, <strong>Jinhui Wei</strong>, Dan Huang, Yutong Lu “RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters”
+
+- <strong>[NPC 2020]</strong> <strong>Jinhui Wei</strong>, Jianzhuang Lu, Qi Yu, Chen Li, Yunping Zhao  “Dynamic GMMU Bypass for Address Translation in Multi-GPU Systems”
 
 <h3> Journal Publications </h3>
 
