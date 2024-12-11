@@ -15,7 +15,6 @@ Hi, I am currently a doctoral candidate at [Sun Yat-sen University](https://sysu
 Education -->
 
 <h2><img src="../image/school.png" alt="Image" style="vertical-align: middle; width: 25px; height: 25px;" /> Education</h2>
-------
 
 - Ph.D in Guangzhou National SuperComputer Center,[Sun Yat-sen University](https://cse.sysu.edu.cn/).
 
@@ -23,7 +22,7 @@ Education -->
 
 - B.Sc. in College of Information Science & Engineering, [Huaqiao University](https://eee.hqu.edu.cn/).
 
-Research Interest
+<h2> Research Interest </h2>
 ------
 
 My research interest focuses on ML System, including:
