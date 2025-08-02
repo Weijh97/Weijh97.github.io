@@ -26,6 +26,8 @@ Education -->
 
 My research interest focuses on ML System, including:
 
+- Speculative Decoding
+
 - Edge Device Inference System
 
 - Address Translation Architecture in Multi-GPU Systems
