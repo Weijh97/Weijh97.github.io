@@ -40,11 +40,15 @@ None
 
 <h3> Conference Publications </h3>
 
-- <strong>[PPoPP 2024]</strong> Jiangsu Du, <strong>Jinhui Wei</strong>, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, “Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference”
+- <strong>[ICCD 2025]</strong> <strong>Jinhui Wei</strong>, Ye Huang, Yuhui Zhou, Jiazhi Jiang, Jiangsu Du and Yutong Lu "Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism
 
-- <strong>[EuroPar 2024]</strong> Jiazhi Jiang, Hongbin Zhang, Deyin Liu, Jiangsu Du, <strong>Jinhui Wei</strong>, Dan Huang, Yutong Lu, “RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters”
+- <strong>[ICCD 2025]</strong> Heming Zhong#, <strong>Jinhui Wei#</strong>, Yujia Fu, Dan Huang, Yutong Lu "IasRT: Interference-Aware and SLO-Driven GPUScheduling for Real-Time DNN Inference"
 
-- <strong>[NPC 2020]</strong> <strong>Jinhui Wei</strong>, Jianzhuang Lu, Qi Yu, Chen Li, Yunping Zhao, “Dynamic GMMU Bypass for Address Translation in Multi-GPU Systems”
+- <strong>[PPoPP 2024]</strong> Jiangsu Du, <strong>Jinhui Wei</strong>, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference"
+
+- <strong>[EuroPar 2024]</strong> Jiazhi Jiang, Hongbin Zhang, Deyin Liu, Jiangsu Du, <strong>Jinhui Wei</strong>, Dan Huang, Yutong Lu, "RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters"
+
+- <strong>[NPC 2020]</strong> <strong>Jinhui Wei</strong>, Jianzhuang Lu, Qi Yu, Chen Li, Yunping Zhao, "Dynamic GMMU Bypass for Address Translation in Multi-GPU Systems"
 
 <h3> Journal Publications </h3>
 
