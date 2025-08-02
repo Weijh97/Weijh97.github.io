@@ -35,7 +35,7 @@ My research interest focuses on ML System, including:
 
 <h2> <img src="../image/news.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> News </h2> 
 
-None
+- [2025-08] Two paper Accepted For ICCD 2025.
 
 <h2> <img src="../image/paper_1.png" alt="Image" style="vertical-align: middle; width: 20px; height: 20px;" /> Selected Publications </h2> 
 (#equal contribution, *corresponding author)
